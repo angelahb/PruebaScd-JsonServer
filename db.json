@@ -1,0 +1,68 @@
+{
+  "usuarios": [
+    {
+      "id": "11",
+      "nombreCompleto": "Mario Hernandez",
+      "descripcion": "Estudiante",
+      "fechaNac": "01-11-1991",
+      "promedio": 6.1,
+      "estado": true
+    },
+    {
+      "nombreCompleto": "Alejandro Perez",
+      "descripcion": "Estudiante",
+      "fechaNac": "01-12-1991",
+      "promedio": 6.1,
+      "estado": "Activo",
+      "id": "5dUX_OI"
+    },
+    {
+      "nombreCompleto": "Angela Hernandez",
+      "descripcion": "Estudiante",
+      "fechaNac": "01-11-1991",
+      "promedio": 6.1,
+      "estado": true,
+      "id": "v5huq5B"
+    },
+    {
+      "nombreCompleto": "Mario",
+      "descripcion": "dfsdfdf",
+      "fechaNac": "2022-08-07",
+      "promedio": 5.8,
+      "estado": "Inactivo",
+      "id": "I4nksgk"
+    },
+    {
+      "nombreCompleto": "Juan",
+      "descripcion": "sdadad",
+      "fechaNac": "2022-08-19",
+      "promedio": 6.9,
+      "estado": "Activo",
+      "id": "4UgMREu"
+    },
+    {
+      "nombreCompleto": "Angela",
+      "descripcion": "prueba",
+      "fechaNac": "2022-08-07",
+      "promedio": 5.5,
+      "estado": "Activo",
+      "id": "OmKNnTo"
+    },
+    {
+      "nombreCompleto": "Bella1",
+      "descripcion": "fdfsd",
+      "fechaNac": "2022-08-07",
+      "promedio": 5.5,
+      "estado": "Activo",
+      "id": "lGTT__A"
+    },
+    {
+      "nombreCompleto": "Prueba2",
+      "descripcion": "Prueba",
+      "fechaNac": "2022-08-05",
+      "promedio": 5.7,
+      "estado": "Activo",
+      "id": "V1aIXo4"
+    }
+  ]
+}
